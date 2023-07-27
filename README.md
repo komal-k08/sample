@@ -1,1 +1,1 @@
-# sample v2.5
+# sample v3.0
